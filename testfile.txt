@@ -5,3 +5,7 @@ This is a test file
 Testing testing testing
 
 Now I will commit file
+
+Now I have edited this file
+
+Now I will commit again
